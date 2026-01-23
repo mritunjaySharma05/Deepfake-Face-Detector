@@ -62,10 +62,11 @@ The model was trained on a **local workstation** for maximum throughput and cont
 ## 🛠️ Project Structure
 
 ```text
-├── app.py                          # Streamlit web app for live inference
-├── deepfake.ipynb                  # Training, experimentation & evaluation
-├── deepfake_detector_resnet50.pth  # Trained model weights (93.99 MB)
-├── requirements.txt                # Project
+├── app.py                       # Streamlit web interface for live testing
+├── deepfake.ipynb               # Research, training, and evaluation notebook
+├── requirements.txt             # Environment dependencies
+├── .gitignore                   # Prevents junk/checkpoint uploads
+└── deepfake_detector_model.pth  # To be downloaded from Releases
 ```
 ## 🚀 Installation & Setup
 
