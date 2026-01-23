@@ -37,7 +37,7 @@ To keep the repository clean and lightweight, the model weights are hosted under
 
 ### 🔽 How to Use the Trained Model
 
-1. Navigate to the [Releases Page](https://github.com/mritunjay-sharma/Deepfake-Face-Detector/releases)of this repository.
+1. Navigate to the [Releases Page](https://github.com/mritunjaySharma05/Deepfake-Face-Detector/releases/tag/v1.0.0)of this repository.
 2. Download `best_deepfake_model.pth`.
 3. Place the file in the **root directory** of the project.
 4. Run the application as usual.
