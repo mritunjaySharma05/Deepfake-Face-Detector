@@ -29,6 +29,22 @@ To adapt ResNet-50 for binary deepfake detection, the following head was impleme
 - **Output Layer** – Softmax for binary classification (**REAL vs FAKE**)
 
 ---
+## 📦 Model Weights & Releases
+
+The trained model weights (`best_deepfake_model.pth`) are approximately **93.99 MB**, which exceeds GitHub’s standard web upload limit.
+
+To keep the repository clean and lightweight, the model weights are hosted under the **Releases** section of this repository.
+
+### 🔽 How to Use the Trained Model
+
+1. Navigate to the [Releases Page](https://github.com/mritunjay-sharma/Deepfake-Face-Detector/releases)of this repository.
+2. Download `best_deepfake_model.pth`.
+3. Place the file in the **root directory** of the project.
+4. Run the application as usual.
+
+Once placed correctly, the Streamlit app will automatically load the model for inference.
+
+---
 
 ## 💻 Hardware & Engineering Specifications
 
