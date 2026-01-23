@@ -90,7 +90,7 @@ The model's performance was rigorously evaluated using metrics beyond simple
 - Recall (Fake): 0.93 — Ensuring most digital forgeries are caught.
 - ROC-AUC: ~0.98 — Demonstrating near-perfect class separation.
 ## 👤 Author 
-**Mritunjay Sharma** Associate of Science in AI | Saras AI Institute 
-[LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/mritunjay-sharma" title="null)
+**Mritunjay Sharma** | Associate of Science in AI | Saras AI Institute | 
+[LinkedIn](www.linkedin.com/in/mritunjay-sharma05)
 
 
